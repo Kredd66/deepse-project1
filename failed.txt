@@ -1,0 +1,12 @@
+Loi tai https://github.com/tensorflow/models.git
+Loi tai https://github.com/pytorch/pytorch.git
+Loi tai https://github.com/scikit-learn/scikit-learn.git
+Loi tai echo https://github.com/tensorflow/models.git > repos.txt
+Loi tai echo https://github.com/pytorch/pytorch.git >> repos.txt
+Loi tai echo https://github.com/tensorflow/models.git > repos.txt
+Loi tai echo https://github.com/pytorch/pytorch.git >> repos.txt
+Loi tai echo https://github.com/tensorflow/models.git > repos.txt
+Loi tai echo https://github.com/pytorch/pytorch.git >> repos.txt
+Loi tai echo https://github.com/scikit-learn/scikit-learn.git >> repos.txt
+Loi tai https://github.com/tensorflow/models.git
+Loi tai https://github.com/pytorch/pytorch.git
